@@ -56,6 +56,7 @@ int main()
       float Fxmin = Fx(xmin);
       printf("xmin = %.3f \nfxmin = %.3f\n",xmin,Fxmin);
    return 0;
+}
 
 ```
 
