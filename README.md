@@ -2,7 +2,7 @@
 here is a help for you....
 
 Q1 Fibonacci Sequance 
-
+```C
 #include<stdio.h>
 float Fx(float x)
 {
@@ -56,7 +56,8 @@ int main()
       float Fxmin = Fx(xmin);
       printf("xmin = %.3f \nfxmin = %.3f\n",xmin,Fxmin);
    return 0;
-}
+
+```
 
 //output is :
 
