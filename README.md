@@ -1,7 +1,7 @@
 # TMR
 here is a help for you....
 
-Q1 Fibonacci Sequance 
+#Q1 Fibonacci Sequance 
 ```C
 #include<stdio.h>
 float Fx(float x)
@@ -59,8 +59,8 @@ int main()
 
 ```
 
-//output is :
-
+#//output is :
+```
 Enter value of N 4
 Enter Lower limits 0
 Enter Upper limits 1
@@ -71,14 +71,14 @@ K        F*      L       R       X1      X2      Fx1     Fx2    L/R
 4       1.00    0.60    0.80
 xmin = 0.700
 fxmin = -0.910
-
+```
 //////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////
 
-Q2 GSM 
-
+#Q2 GSM 
+```C
 #include<stdio.h>
 float Fx(float x)
 {
@@ -126,9 +126,9 @@ int main()
     return 0;
     
 }
-
-//output is :
-
+```
+#//output is :
+```
 Enter tolerance .13
 Enter Lower limits 1
 Enter Upper limits 2
@@ -141,3 +141,4 @@ K        L       R       X1      X2      Fx1     Fx2     L/R
 6       1.00    1.09
 xmin = 1.045
 fxmin = -0.998
+```
